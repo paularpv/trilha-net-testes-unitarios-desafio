@@ -69,3 +69,4 @@ public class ValidacoesStringTests
         Assert.True(resultado);
     }
 }
+
